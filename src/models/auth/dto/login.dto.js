@@ -1,4 +1,4 @@
-const bcrypt = require('bcrypt'); // npm install bcrypt
+const bcrypt = require('bcryptjs'); // npm install bcrypt
 
  class LoginDTO {
   email;
