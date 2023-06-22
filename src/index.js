@@ -28,7 +28,7 @@ const jwtAuth= require("./middleware/jwtAuth");
         .json({ message: err.message || "서버에서 에러가 발생하였습니다." });
     });
   
-    app.listen(3000, () => {
+    app.listen(8000, () => {
       console.log("서버가 시작되었습니다.");
     });
   })();
