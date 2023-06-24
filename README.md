@@ -3,7 +3,6 @@
 #### Project nickname : 늦지마요
 #### Team : Euphoria
 
-#### GIT LAB URL : [GIT LAB](https://lab.hanium.or.kr/21_PF020/21_pf020)
 -----------------------
 ## ▶︎Developer
 
